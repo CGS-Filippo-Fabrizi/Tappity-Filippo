@@ -33,7 +33,7 @@ class ViewController: UIViewController {
             timer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(ViewController.update), userInfo: nil, repeats: true)
             
             
-            
+            print("I like my italians nice and fried")
             
         }
         
